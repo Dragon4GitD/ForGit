@@ -1,0 +1,5 @@
+Input : 4  [add_one, multiply_by_five] Output => [5, 20]
+Input : 7  [substract_three, add_seven, multiply_by_three] Output => [4, 14, 21]
+Input : 9  [multiply_by_seven, add_one, divide_by_three, substract_eight] Output => [63, 10, 3, 1]
+Input : 15  [add_seven, add_twelve, substract_five, divide_by_five, multiply_by_two, multiply_by_four] Output => [22, 27, 10, 3, 30, 60]
+Input : 21  [add_ten, substract_fifty] Output => [31, -29]
